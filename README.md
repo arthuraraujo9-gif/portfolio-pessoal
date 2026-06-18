@@ -1,7 +1,12 @@
-# Meu Portfólio Pessoal 
+# 💻 Meu Portfólio Pessoal
 
 Este é o repositório do meu portfólio pessoal.
+---
 
-## 🛠️ Tecnologias Utilizadas:
-- HTML5
-- CSS3
+## 🛠️ Tecnologias Utilizadas
+
+Para a construção deste projeto, utilizei as seguintes ferramentas:
+
+* **HTML5** — Estruturação semântica das páginas.
+* **CSS3** — Estilização, layout responsivo e efeitos visuais.
+
