@@ -1,4 +1,4 @@
-# Meu Portfólio Pessoal 🚀
+# Meu Portfólio Pessoal 
 
 Este é o repositório do meu portfólio pessoal.
 
